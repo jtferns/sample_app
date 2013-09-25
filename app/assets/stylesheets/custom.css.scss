@@ -41,6 +41,7 @@ textarea {
 
 h1, h2, h3, h4, h5, h6 {
 	line-height: 1;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 
 h1 {
@@ -62,6 +63,7 @@ h2 {
 p {
 	font-size: 1.1em;
 	line-height: 1.7em;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 
 /* header */
@@ -76,6 +78,7 @@ p {
 	padding-top: 9px;
 	font-weight: bold;
 	line-height: 1;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	&:hover {
 		color: #fff;
 		text-decoration: none;	
